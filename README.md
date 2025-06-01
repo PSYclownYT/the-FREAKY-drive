@@ -9,3 +9,4 @@ You can play the game here: https://www.roblox.com/games/98119185330937/A-Freaky
 due to roblox's strange creation system, certain aspects will NOT WORK if you download the source code. there is NO WAY that i can fix this, you might have to yourself.
 (most likely this will work fine, however.)
 
+source: `whay land.rbxl`
