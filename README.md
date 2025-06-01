@@ -1,4 +1,4 @@
-# The Freaky Drive
+# The Freaky Trip
 
 ![image](https://github.com/user-attachments/assets/6defd3e2-7224-47e3-befe-480b837704e0)
 
