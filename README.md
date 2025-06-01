@@ -1,5 +1,8 @@
 # The Freaky Trip
 
+heavily inspired off of "THE LONG DRIVE"
+
+
 ![image](https://github.com/user-attachments/assets/6defd3e2-7224-47e3-befe-480b837704e0)
 
 This is a silly lil game I made for HackNight 2025 real
